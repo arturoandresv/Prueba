@@ -12,6 +12,7 @@ public class Empresa {
 
     private Vehiculo vehiculos[] = new Vehiculo[1000];
     private int numeroVehiculos = 0;
+    private String si;
 
     public Empresa() {
     }
